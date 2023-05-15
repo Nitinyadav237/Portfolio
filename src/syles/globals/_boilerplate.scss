@@ -1,0 +1,83 @@
+// @use "./colors" as *;
+// @use "./typography" as *;
+
+$background-color: white;
+
+$gray-bg-color: #f9f9f9;
+$title-color: black;
+$text-color: #767676;
+$header-color: #147efb;
+$black-shade: #2d2e32;
+
+// font family
+$title-font: "Poppins", sans-serif;
+$text-font: "Mulish", sans-serif;
+
+// font size
+$text-size: 1.7rem;
+$hero-size: 5.5rem;
+$hero-text-size: 1.8rem;
+$headings-size: 2.5rem;
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: $background-color;
+  font-family: $title-font;
+  position: relative;
+}
+
+.container {
+  max-width: 107rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+// scroll bar
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #8e8e8e #ffffff;
+}
+
+/* Chrome, Edge and Safari */
+*::-webkit-scrollbar {
+  width: 8px;
+  width: 8px;
+}
+*::-webkit-scrollbar-track {
+  border-radius: 20px;
+  background-color: #ffffff;
+}
+
+*::-webkit-scrollbar-track:hover {
+  background-color: #ffffff;
+}
+
+*::-webkit-scrollbar-track:active {
+  background-color: #ffffff;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+  background-color: #8e8e8e;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: #878787;
+}
+
+*::-webkit-scrollbar-thumb:active {
+  background-color: #8e8e8e;
+}
