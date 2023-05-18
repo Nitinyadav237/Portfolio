@@ -79,7 +79,7 @@ function Hero() {
                     <img src={Sass} title="Sass/Scss" alt="program_img" />
                   </li>
                     <li>
-                    <img src={Styled} title="Styled/components" alt="program_img" />
+                    <img src={Styled} title="Styled-components" alt="program_img" />
                   </li>
                    <li>
                     <img src={Next} title="NextJs" alt="program_img" />
