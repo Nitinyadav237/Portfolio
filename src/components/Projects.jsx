@@ -18,7 +18,7 @@ function Projects() {
                 img={NyTechno}
                 description=" The website was developed using Styled Components with a responsive design, making it accessible on mobile devices. It consists of various sections such as About, Contact, and Services."
                 techno1="React with Js"
-                techno2="Styled/Components"
+                techno2="Styled-Components"
                 code="https://github.com/Nitinyadav237/nytechno"
                 demo="https://nytechno.netlify.app/"
                 scrollY="-83%"
