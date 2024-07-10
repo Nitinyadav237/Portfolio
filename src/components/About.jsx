@@ -18,7 +18,7 @@ function About() {
             <div className="text-side">
               <h4>About </h4>
               <h3>
-                A dedicated Full-Stack Developer <br /> based in Chennai,India
+                A dedicated Full-Stack Developer <br /> based in India
                 📍
               </h3>
               <p>

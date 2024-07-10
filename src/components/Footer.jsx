@@ -12,7 +12,7 @@ function Footer() {
                 aria-label="linkedin"
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.linkedin.com/in/nitin-yadav-8b521a19b/"
+                href="https://www.linkedin.com/in/nitin-yadav237/"
               >
                 <i className="fa-brands fa-linkedin"></i>
               </a>

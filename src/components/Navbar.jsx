@@ -1,7 +1,6 @@
 import { useState } from "react";
 import "../syles/sylesComponent/_nav.scss";
 
-
 function Navbar() {
   const [hamburger, setHamburger] = useState(false);
 
@@ -32,7 +31,14 @@ function Navbar() {
           <li>
             <a href="#projects">Projects</a>
           </li>
-
+          <li>
+            <a
+              href="https://drive.google.com/file/d/1eR1ApSpz-NSGr6ZurlyIh8oRTRLkVmGb/view?usp=sharing"
+              target="_blank"
+            >
+              Resume
+            </a>
+          </li>
           <li>
             <a href="#contact">Contact</a>
           </li>
@@ -72,4 +78,3 @@ function Navbar() {
 }
 
 export default Navbar;
-

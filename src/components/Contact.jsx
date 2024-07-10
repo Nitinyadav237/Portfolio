@@ -16,7 +16,7 @@ function Contact() {
                 </span>
                 <div className="contact__info">
                   <h3>Location</h3>
-                  <p>Chennai,India</p>
+                  <p>India</p>
                 </div>
               </div>
 

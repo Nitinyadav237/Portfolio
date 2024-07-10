@@ -22,11 +22,11 @@ function Hero() {
           <div className="content">
             <div className="hero-main">
               <div className="hero-text">
-                <h1>Front-End Developer</h1>
+                <h1>Full Stack Developer</h1>
                 <img src={Waving} alt="waving_hand" />
                 <p>
                   Hi, I'm Nitin Yadav. A passionate Full-Stack 
-                  Developer based in Chennai,India 📍
+                  Developer based in India 📍
                 </p>
                 <span>
                   <a
