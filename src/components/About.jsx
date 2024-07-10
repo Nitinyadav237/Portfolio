@@ -18,11 +18,11 @@ function About() {
             <div className="text-side">
               <h4>About </h4>
               <h3>
-                A dedicated Front-end Developer <br /> based in Chennai,India
+                A dedicated Full-Stack Developer <br /> based in Chennai,India
                 📍
               </h3>
               <p>
-                 As a Junior Front-End Developer, I have an impressive set of skills in HTML, CSS, JavaScript,TypeScript, React, Next.js, Tailwind, Node.js, and Express, as well as experience working with MongoDB. I excel at designing and maintaining responsive websites that provide an excellent user experience. My expertise involves creating dynamic and engaging interfaces through writing optimized and clean code and utilizing the latest development tools and techniques. I am a team player who enjoys collaborating with cross-functional teams to create exceptional web applications.
+                 As a Junior Full-Stack Developer, I have an impressive set of skills in HTML, CSS, JavaScript,TypeScript, React, Next.js, Tailwind, Node.js, and Express, as well as experience working with MongoDB. I excel at designing and maintaining responsive websites that provide an excellent user experience. My expertise involves creating dynamic and engaging interfaces through writing optimized and clean code and utilizing the latest development tools and techniques. I am a team player who enjoys collaborating with cross-functional teams to create exceptional web applications.
               </p>
             </div>
           </div>
