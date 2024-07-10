@@ -33,7 +33,7 @@ function Navbar() {
           </li>
           <li>
             <a
-              href="https://drive.google.com/file/d/1eR1ApSpz-NSGr6ZurlyIh8oRTRLkVmGb/view?usp=sharing"
+              href="https://drive.google.com/file/d/1GzaxsMbUrOAp7fRSwl07RkGxKWzuBMYz/view?usp=sharing"
               target="_blank"
             >
               Resume
@@ -66,6 +66,15 @@ function Navbar() {
 
           <li onClick={() => hamburgerMenu()}>
             <a href="#projects">Projects</a>
+          </li>
+
+          <li onClick={() => hamburgerMenu()}>
+            <a
+              href="https://drive.google.com/file/d/1GzaxsMbUrOAp7fRSwl07RkGxKWzuBMYz/view?usp=sharing"
+              target="_blank"
+            >
+              Resume
+            </a>
           </li>
 
           <li onClick={() => hamburgerMenu()}>
