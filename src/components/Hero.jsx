@@ -25,7 +25,7 @@ function Hero() {
                 <h1>Front-End Developer</h1>
                 <img src={Waving} alt="waving_hand" />
                 <p>
-                  Hi, I'm Nitin Yadav. A passionate Front-end 
+                  Hi, I'm Nitin Yadav. A passionate Full-Stack 
                   Developer based in Chennai,India 📍
                 </p>
                 <span>
