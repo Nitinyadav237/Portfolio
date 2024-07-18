@@ -33,7 +33,7 @@ function Navbar() {
           </li>
           <li>
             <a
-              href="https://drive.google.com/file/d/1GzaxsMbUrOAp7fRSwl07RkGxKWzuBMYz/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Dd_QXPrB5cQW38LOcRyD_DjLeSWP73qc/view?usp=sharing
               target="_blank"
             >
               Resume
